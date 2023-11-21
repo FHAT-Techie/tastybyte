@@ -318,7 +318,8 @@ nav ul :not(:first-child) {
 }
 /* menu style */
 .menu-box h1,
-.app-section h1 {
+.app-section h1,
+.event-header {
   color: #fff;
   text-align: center;
   font-family: Rounded Mplus 1c Bold;
@@ -329,19 +330,22 @@ nav ul :not(:first-child) {
 }
 @media only screen and (max-width: 1000px) {
   .menu-box h1,
-  .app-section h1 {
+  .app-section h1,
+  .event-header{
     font-size: 80px;
   }
 }
 @media only screen and (max-width: 768px) {
   .menu-box h1,
-  .app-section h1 {
+  .app-section h1,
+  .event-header{
     font-size: 60px;
   }
 }
 @media only screen and (max-width: 576px) {
   .menu-box h1,
-  .app-section h1 {
+  .app-section h1 ,
+  .event-header{
     font-size: 35px;
   }
 }

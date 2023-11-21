@@ -1,5 +1,5 @@
   /* big screen */
-  @media only screen and (max-width: 1000px) { 
+  @media only screen and (max-width: 1200px) { 
            nav ul li{
             font-size: 15px;
            }

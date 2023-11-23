@@ -25,7 +25,7 @@ nav a{
                 
             }
             .land-page{
-                gap: 30px;
+                gap: 20px;
 height: 300px;
             }
          }
@@ -125,6 +125,7 @@ margin-top: 20px;
             display: inline !important; 
            }
 .land-page{
+    gap: 15px;
     height: 130px;
 }
          }
@@ -145,6 +146,8 @@ margin-top: 20px;
            nav a{
             font-size: 5px;
            }
+             .land-page{
+                gap: 10px;}
            }
                    
             

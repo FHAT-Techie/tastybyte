@@ -101,7 +101,7 @@ nav ul :not(:first-child) {
 
 }
 .land-page {
-  padding-inline: 8px;
+  margin-inline-end: 8px;
   background-image: url(/resource/img/landing-page-bg.jpg);
   background-size: 100%;
   background-blend-mode: lighten;
